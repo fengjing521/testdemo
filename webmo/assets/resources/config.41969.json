@@ -1,0 +1,102 @@
+{
+    "paths": {
+        "3e0lHFGGJH64u4GTvKgEhk": [
+            "animation/flyLoading",
+            "cc.AnimationClip"
+        ],
+        "fbEVIhbdtBDrLRrO4k7jJq": [
+            "animation/iconLoading",
+            "cc.AnimationClip"
+        ],
+        "7bBPV45wBBq6e+20m9N9B/": [
+            "configData/game_config",
+            "cc.JsonAsset"
+        ],
+        "cak6oEinJE04HcWxu45iJn": [
+            "prefabs/CommonDialog/UI_DoubleComDialog",
+            "cc.Prefab"
+        ],
+        "c4s0Q97IlOgJ5EEsMTHKcz": [
+            "prefabs/CommonDialog/UI_DoubleNetDialog",
+            "cc.Prefab"
+        ],
+        "b25pr8mnRHIIIlz0LUh3+Z": [
+            "prefabs/CommonDialog/UI_SingerComDialog",
+            "cc.Prefab"
+        ]
+    },
+    "uuids": [
+        "02delMVqdBD70a/HSD99FK",
+        "29FYIk+N1GYaeWH/q1NxQO",
+        "3e0lHFGGJH64u4GTvKgEhk",
+        "71VhFCTINJM6/Ky3oX9nBT",
+        "7bBPV45wBBq6e+20m9N9B/",
+        "a2MjXRFdtLlYQ5ouAFv/+R",
+        "b25pr8mnRHIIIlz0LUh3+Z",
+        "b4P/PCArtIdIH38t6mlw8Y",
+        "c4s0Q97IlOgJ5EEsMTHKcz",
+        "cak6oEinJE04HcWxu45iJn",
+        "e8Ueib+qJEhL6mXAHdnwbi",
+        "e97GVMl6JHh5Ml5qEDdSGa",
+        "ecpdLyjvZBwrvm+cedCcQy",
+        "f0BIwQ8D5Ml7nTNQbh1YlS",
+        "fbEVIhbdtBDrLRrO4k7jJq"
+    ],
+    "scenes": {},
+    "redirect": [
+        "02delMVqdBD70a/HSD99FK",
+        0,
+        "ecpdLyjvZBwrvm+cedCcQy",
+        0
+    ],
+    "deps": [
+        "internal"
+    ],
+    "packs": {
+        "09b7df110": [
+            "71VhFCTINJM6/Ky3oX9nBT",
+            "b4P/PCArtIdIH38t6mlw8Y",
+            "e8Ueib+qJEhL6mXAHdnwbi"
+        ],
+        "0a11afb61": [
+            "29FYIk+N1GYaeWH/q1NxQO",
+            "a2MjXRFdtLlYQ5ouAFv/+R",
+            "e97GVMl6JHh5Ml5qEDdSGa",
+            "f0BIwQ8D5Ml7nTNQbh1YlS"
+        ]
+    },
+    "name": "resources",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "09b7df110",
+            "01145",
+            "0a11afb61",
+            "31a32",
+            "3e0lHFGGJH64u4GTvKgEhk",
+            "8800a",
+            "7bBPV45wBBq6e+20m9N9B/",
+            "ce05c",
+            "b25pr8mnRHIIIlz0LUh3+Z",
+            "b731d",
+            "c4s0Q97IlOgJ5EEsMTHKcz",
+            "33ff9",
+            "cak6oEinJE04HcWxu45iJn",
+            "c8a9c",
+            "fbEVIhbdtBDrLRrO4k7jJq",
+            "2ad52"
+        ],
+        "native": [
+            "71VhFCTINJM6/Ky3oX9nBT",
+            "c06a9",
+            "b4P/PCArtIdIH38t6mlw8Y",
+            "83fcc",
+            "e8Ueib+qJEhL6mXAHdnwbi",
+            "90cf4"
+        ]
+    }
+}
